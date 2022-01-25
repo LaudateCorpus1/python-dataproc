@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-dataproc/#history
 
+## [3.3.0](https://github.com/googleapis/python-dataproc/compare/v3.2.0...v3.3.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#336](https://github.com/googleapis/python-dataproc/issues/336)) ([ac22d7e](https://github.com/googleapis/python-dataproc/commit/ac22d7ef7040e85035a8d3cfc9fe0f69a014f238))
+
 ## [3.2.0](https://github.com/googleapis/python-dataproc/compare/v3.1.1...v3.2.0) (2022-01-17)
 
 
